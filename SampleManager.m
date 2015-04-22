@@ -11,7 +11,7 @@
 @implementation SampleManager
 
 - (void)test {
-    NSLog(@"Log from Sample Manager");
+    NSLog(@"Log from Sample Manager123");
 }
 
 @end
